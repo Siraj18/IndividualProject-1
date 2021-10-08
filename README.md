@@ -1,5 +1,8 @@
 # LibraryApp
 Курсовой проект
+![image](https://user-images.githubusercontent.com/49001639/136587377-b93edebf-03b3-4d49-8e99-455a6ecd0f14.png)
+![image](https://user-images.githubusercontent.com/49001639/136587656-1d753f72-ece5-4ebd-ad1a-d90b05849f7d.png)
+
 #
 Данный проект был создан в рамках курсового проекта и был реализован в краткие сроки.
 #
